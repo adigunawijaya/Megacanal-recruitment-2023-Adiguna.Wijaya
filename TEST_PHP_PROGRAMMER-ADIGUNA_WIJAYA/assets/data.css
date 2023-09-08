@@ -1,0 +1,203 @@
+html,
+body {
+  height: 100%;
+}
+
+#content {
+  flex: 1 0 auto;
+}
+
+#footer {
+  flex-shrink: none;
+}
+
+.bg-light {
+    background-color: #212529!important;
+}
+
+.py-3 {
+    padding-top: 0.75rem!important;
+    padding-bottom: 0.75rem!important;
+}
+
+.text-muted {
+    color: #bec0c1!important;
+}
+
+/* neon */
+.logo {
+    color: hsl(0, 0%, 28%);
+    font-size: 15px;
+    font-weight: bold;
+    font-family: monospace;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.logo span {
+    transition: 0.5s ease-out;
+}
+
+.logo:hover span:nth-child(1) {
+    margin-right: 5px;
+}
+
+.logo:hover span:nth-child(1):after {
+    content: "";
+}
+
+.logo:hover span:nth-child(2) {
+    margin-left: 30px;
+}
+
+.logo:hover span {
+    color: #fff;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #fff;
+}
+
+.text-primary {
+    color: #2e7bed!important;
+}
+
+.item  {
+    transition: 0.5s ease-out;
+    background: #343a40;
+    box-shadow: 5px 5px 5px 0px #6c757d;
+}
+
+.item:hover :nth-child(1) {
+    margin-right: 5px;
+}
+
+.item:hover :nth-child(1):after {
+    content: "";
+}
+
+.item:hover :nth-child(2) {
+    margin-left: 30px;
+}
+
+.item:hover  {
+    color: #007bff;
+    box-shadow: 3px 3px 20px 0px #007bff, 0 0 20px #007bff, inset 0 0 40px #007bff
+}
+
+input.Input {
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    outline: none;
+    width: 145px;
+}
+
+textarea.Input {
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    outline: none;
+    width:100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.photo {
+    width: 50px;
+    height:50px;
+    margin-bottom: -15px;
+    margin-top: -20px;
+}
+
+.picture {
+    width: 50px;
+    height:50px;
+}
+
+/* Hide the images by default */
+.mySlides {
+    display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+    cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev1,
+.next1 {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+/* Position the "next1 button" to the right */
+.next1 {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev1:hover,
+.next1:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+    color: #000000;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Six columns side by side */
+.column {
+    float: left;
+    width: 30%;
+    padding-right: 2px;
+    padding-left: 15px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+    opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+    opacity: 1;
+}
+
+.col-xl-4 {
+    position: relative;
+    width: 100%;
+    padding-right: 2px;
+    padding-left: 15px;
+    padding-bottom: 16px;
+}

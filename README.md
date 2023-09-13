@@ -9,9 +9,11 @@
 4. CSS : Bootstrap Versi 4.3.1
 5. JavaScript : JQUERY -> AJAX -> JSON
 6. Datatables
+<hr/>
 
 # DEMO PROGRAM
   http://adigunatestprogram2.rf.gd/
+<hr/>
 
 # Program ini dibuat dalam rangka menyelesaikan TEST PHP PROGRAMMER - PT. INTEGRASI MEGAKANAL AGENSI <br>
 Berikut terlampir bentuk soal test yang saya terima via email:<p>

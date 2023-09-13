@@ -10,6 +10,9 @@
 5. JavaScript : JQUERY -> AJAX -> JSON
 6. Datatables
 
+# DEMO PROGRAM
+  http://adigunatestprogram2.rf.gd/
+
 # Program ini dibuat dalam rangka menyelesaikan TEST PHP PROGRAMMER - PT. INTEGRASI MEGAKANAL AGENSI <br>
 Berikut terlampir bentuk soal test yang saya terima via email:<p>
 [![soal-no 1-no 2](https://github.com/adigunawijaya/TEST_PHP_PROGRAMMER-ADIGUNA_WIJAYA/blob/main/assets/images/soal-no.1-no.2.jpg)

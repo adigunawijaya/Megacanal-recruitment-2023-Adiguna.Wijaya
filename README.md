@@ -1,5 +1,5 @@
 # PROGRAM TEST PHP PROGRAMMER PT. INTEGRASI MEGAKANAL AGENSI
-<hr/><p/>
+<hr/>
 # SPESIFIKASI PROGRAM
 1. XAMPP Versi 3.3.0 : <br>
    a. Apache : Browser(Google Chrome) -> phpMyAdmin Versi 5.2.1 <br>
@@ -9,11 +9,11 @@
 4. CSS : Bootstrap Versi 4.3.1
 5. JavaScript : JQUERY -> AJAX -> JSON
 6. Datatables
-<hr/><p/>
+<hr/>
 
 # DEMO PROGRAM
   http://adigunatestprogram2.rf.gd/
-<hr/><p/>
+<hr/>
 
 # Program ini dibuat dalam rangka menyelesaikan TEST PHP PROGRAMMER - PT. INTEGRASI MEGAKANAL AGENSI <br>
 Berikut terlampir bentuk soal test yang saya terima via email:<p>
